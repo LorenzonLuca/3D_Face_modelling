@@ -1,0 +1,14 @@
+flask
+Flask-SQLAlchemy
+Flask-HTTPAuth
+flask-socketio
+pymysql
+python-dotenv
+bcrypt
+flask-cors
+opencv-python
+Pillow
+aspose-3d
+facenet_pytorch
+face_alignment
+cryptography
